@@ -19,7 +19,7 @@
     $x = mysqli_query($con, $q);
   }
 
-  if($x == 1) {
+  if(x == 1) {
     header('Location: index.php');
   }
   else {
